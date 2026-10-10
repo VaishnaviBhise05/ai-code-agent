@@ -1,1 +1,7 @@
 
+autogen-agentchat~=0.2
+matplotlib
+yfinance
+jupyter
+ipykernel
+
