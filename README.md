@@ -106,10 +106,6 @@ The output files are created only if the relevant notebook cells execute success
 
 This project executes AI-generated Python code locally. Generated code should be reviewed before execution. Do not run untrusted code on your main system. Use a properly isolated environment with appropriate time and resource limits for safer experimentation.
 
-## Disclaimer
-
-This project is for educational and research purposes. Stock market data and generated analyses are not financial advice. Results depend on data availability, execution success, and the configured language model.
-
 ## Future Improvements
 
 - Add a Streamlit web interface
@@ -119,8 +115,3 @@ This project is for educational and research purposes. Stock market data and gen
 - Support additional data-analysis tasks
 - Add automated tests
 
-## Author
-
-**Vaishnavi Bhise**
-
-GitHub: [VaishnaviBhise05](https://github.com/VaishnaviBhise05)
