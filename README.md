@@ -1,4 +1,4 @@
-# AI Code Agent — Code Generation, Execution & Debugging
+# AI Code Agent Code Generation, Execution & Debugging
 
 An AI-powered multi-agent project using AutoGen to generate Python code, execute it, detect errors, and iteratively improve solutions through agent-to-agent communication.
 
